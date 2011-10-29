@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/dlundy/secondchance/app/views'
+let g:netrw_dirhist_2='/home/dlundy/bootstrap-sass/app/assets'
+let g:netrw_dirhist_3='/home/dlundy/bootstrap-sass/app/assets/stylesheets'
+let g:netrw_dirhist_4='/home/dlundy/bootstrap-sass/app/assets/stylesheets/application'
+let g:netrw_dirhist_5='/home/dlundy/bootstrap-sass/app/assets/stylesheets/bootstrap'
+let g:netrw_dirhist_6='/home/dlundy/bootstrap-sass/app/assets/stylesheets'
